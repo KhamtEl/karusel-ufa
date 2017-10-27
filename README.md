@@ -1,1 +1,1 @@
-# khamtel.portfolio.github.io
+# khamtelportfolio.github.io
