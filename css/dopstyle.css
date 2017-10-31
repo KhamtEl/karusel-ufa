@@ -1,0 +1,199 @@
+@font-face {
+    font-family: Parker;
+    src: url(../fonts/Parker.ttf);
+   }
+@font-face{
+    font-family: glyphicons-halflings-regular;
+    src: url('../fonts/glyphicons-halflings-regular.eot#iefix') format('embedded-opentype'),
+    url('../fonts/glyphicons-halflings-regular.woff') format('woff'),
+    url('../fonts/glyphicons-halflings-regular.woff2') format('woff2'),
+    url('../fonts/glyphicons-halflings-regular.ttf') format('truetype'),
+    url('../fonts/glyphicons-halflings-regular.svg') format('svg');
+}
+
+body {
+    font-family: Parker, sans-serif;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #000000;
+    background-color: #fff;
+}
+
+.container {
+	width: 1383px;
+	max-width: 80%;
+}
+
+.img {
+	max-width: 100%;
+	height: auto;
+}
+
+.navbar-default {
+    background-color: #fdf9ed;
+    height: 135px;
+}
+
+.nav .navbar-brand {
+    width: 60px;
+    height: 60px;
+    background-size: contain;
+    position:absolute;
+    top: 18px;
+    left: 20px;
+}
+
+.request {
+    background: url("../img/fon1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 500px;
+    margin-top: 120px;
+    padding: 0 4%;
+}
+
+.request .formBgd {
+    background: url("../img/order_form.png");
+    background-size: 100%;
+    margin: 50px auto;
+    width: 100%;
+    height: 430px;
+}
+
+.line {
+    background: url("../img/line.png");
+    height: 86px;
+}
+
+.services .row {
+    background: url("../img/icons.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 521px;
+    margin-top: -15px;
+}
+
+.services .formBgd {
+    background-size: 100%;
+    margin: 50px auto;
+    width: 100%;
+    height: 430px;
+}
+
+.programms {
+    background: url("../img/programs.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 705px;
+    margin-top: 75px;
+    padding: 0 4%;
+}
+
+.programms .container {
+    height: 560px;
+}
+
+.programms .formBgd {
+    background-size: 100%;
+    margin: 50px auto;
+    width: 100%;
+    height: 430px;
+}
+
+.sale {
+    background: url("../img/sale.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 488px;
+    margin-top: -42px;
+}
+
+.sale .formBgd {
+    background-size: 100%;
+    margin: 50px auto;
+    width: 100%;
+    height: 430px;
+}
+
+.gallery {
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 720px;
+    padding: 0 4%;
+}
+
+.gallery .formBgd {
+    /*background: url("../img/gallery.png");*/
+    margin: 50px auto;
+    width: 100%;
+    height: 430px;
+}
+
+.reviews {
+    background: url("../img/reviews.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 695px;
+    margin-top: -100px;
+    padding: 0 4%;
+}
+
+.reviews .formBgd {
+    background-size: 100%;
+    margin: 50px auto;
+    width: 100%;
+    height: 430px;
+}
+
+.counter {
+    background: url("../img/fon1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 250px;
+    margin-top: 0px;
+    padding: 0 4%;
+}
+
+.counter .formBgd {
+    background-size: 100%;
+    margin: 50px auto;
+    width: 100%;
+    height: 430px;
+}
+
+.form {
+    background: url("../img/snow.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 695px;
+    margin-top: -100px;
+    padding: 0 4%;
+}
+
+.form .formBgd {
+    background: url(../img/sale_form2.png);
+    background-repeat: no-repeat;
+    background-size: contain;
+    margin: 0px;
+    width: initial;
+    height: 416px;
+}
+
+.form .col-sm-6 {
+    width: 51%;
+    }
+
+.footer {
+    height: 183px;
+    margin-top: -100px;
+    padding: 0 4%;
+}
+
+.footer .formBgd {
+    background-size: 100%;
+    margin: 50px auto;
+    width: 100%;
+    height: 430px;
+}
+
+
